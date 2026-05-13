@@ -1,5 +1,3 @@
-requests
-flask
-eth-account
-mnemonic
-mangum
+flask==3.0.3
+requests==2.32.3
+mangum==0.15.0
